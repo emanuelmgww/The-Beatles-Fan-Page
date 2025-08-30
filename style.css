@@ -1,0 +1,120 @@
+.pagina-principal {
+    margin: 0;
+    margin-top: 5px;
+    height: 100vh;
+}
+
+.pagina-historia {
+    margin-top: 70px;
+}
+
+.pagina-historia p {
+    margin: 16px auto;
+    line-height: 1.5;
+}
+
+.pagina-integrantes {
+    margin-top: 70px;
+}
+
+.pagina-integrantes p {
+    margin: 16px auto;
+    line-height: 1.5;
+}
+
+.john-lennon-imagem {
+    width: 170px;
+}
+
+.george-harrison-imagem {
+    width: 170px;
+}
+
+.paul-maccatney-imagem {
+    width: 170px;
+}
+
+.ring-starr-imagem {
+    width: 170px;
+}
+
+.integrantes-da-banda {
+    width: 200px;
+}
+
+.pagina-integrantes p {
+    margin: 16px auto;
+    line-height: 1.5;
+}
+
+.pagina-musicas-famosas p {
+    margin: 16px auto;
+    line-height: 1.5;
+}
+
+.pagina-musicas-famosas {
+    margin-top: 70px;
+}
+
+.hey-jude {
+    width: 500px;
+}
+
+.yesytarday {
+    width: 500px;
+}
+
+.let-it-be {
+    width: 500px;
+}
+
+.a-day-in-the-life {
+    width: 500px;
+}
+
+.here-comes-the-sun {
+    width: 500px;
+}
+
+.foto-banda {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+}
+
+.titulo-principal {
+    display: block;
+    margin: 50px auto 0 auto;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    z-index: 1000;
+}
+
+.navbar-list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0 40px;
+}
+
+.navbar-list a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-list a:hover {
+    text-decoration: underline;
+}
